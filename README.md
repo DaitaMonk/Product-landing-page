@@ -6,6 +6,7 @@ Check out the live version of the website here: Art Landing Page Live Demo
 
 ### 📸 Website Preview
 
+![Screenshot 2024-09-18 124716](https://github.com/user-attachments/assets/c654dfd8-2675-491f-a60a-c055ba68a6ae)
 
 ### 🛠️ Built With
 HTML5: For the structure and content of the website.  
