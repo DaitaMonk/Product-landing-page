@@ -2,7 +2,7 @@
 Welcome to the Art Landing Page website! This project is designed and developed using only HTML and CSS, showcasing a visually appealing and responsive landing page for artists or art enthusiasts.
 
 ### 🌐 Live Demo
-Check out the live version of the website here: Art Landing Page Live Demo
+Check out the live version of the website here: [Art Business wesite Live Demo](https://daitamonk.github.io/Product-landing-page/)
 
 ### 📸 Website Preview
 
