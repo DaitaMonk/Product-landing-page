@@ -42,7 +42,8 @@ Feel free to fork this repository and make improvements. Contributions are alway
 ### 🖊️ Author
 [Alvin Momoh](https://github.com/DaitaMonk?tab=repositories)
 
-GitHub: AlvinMomoh
-Portfolio: alvinmomoh.com
-📄 License
+- GitHub: [AlvinMomoh](https://github.com/DaitaMonk?tab=repositories)
+- Portfolio: [Portfolio]()
+
+### 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
